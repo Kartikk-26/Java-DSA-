@@ -21,7 +21,7 @@ Feel free to explore the repository, fork it, or clone it to your local machine.
 ### Cloning the Repository
 
 ```sh
-git clone https://github.com/your-username/everyday-learning-java-dsa.git
+git clone https://github.com/Kartikk-26/Java-DSA-.git
 ```
 
 ## 🛠️ Technologies Used
@@ -45,7 +45,7 @@ While this repository is primarily for personal growth, I welcome any feedback o
 
 ## 🌟 Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or follow me on [Twitter](https://twitter.com/your-profile) for more updates.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/-kartikjain/) for more updates.
 
 ---
 
