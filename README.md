@@ -37,6 +37,7 @@ While this repository is primarily for personal growth, I welcome any feedback o
 
 - [x] Day 1: Introduction to Java & Basic Syntax
 - [x] Day 2: Introduction to if-else & loops in Java
+- [x] Day 3: Conditionals and Loops Questions in Java 
 
 ## 🎯 Goals
 
