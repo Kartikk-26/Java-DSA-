@@ -8,11 +8,11 @@ This repository serves as a diary of my daily coding exercises, challenges, and 
 
 ## ✨ What to Expect
 
-1️⃣ **Daily Commits:** I will commit code every day, reflecting my progress in learning Java and DSA. You can expect new code, solutions, and explanations of concepts. 📅
+➔  **Daily Commits:** I will commit code every day, reflecting my progress in learning Java and DSA. You can expect new code, solutions, and explanations of concepts. 📅
 
-2️⃣ **Code & Concepts:** The repository will include code snippets, implementations of various data structures, and explanations of algorithms. Each commit will contain a brief description of the day's work. 💻
+➔  **Code & Concepts:** The repository will include code snippets, implementations of various data structures, and explanations of algorithms. Each commit will contain a brief description of the day's work. 💻
 
-3️⃣ **Learning Milestones:** I'll track my progress and milestones, such as completing a specific topic or mastering a challenging concept. 🎯
+➔  **Learning Milestones:** I'll track my progress and milestones, such as completing a specific topic or mastering a challenging concept. 🎯
 
 ## 🚀 How to Use
 
@@ -35,15 +35,15 @@ While this repository is primarily for personal growth, I welcome any feedback o
 
 ## 📈 Progress Tracker
 
-- [x] Day 1: Introduction to Java & Basic Syntax
-- [x] Day 2: Introduction to if-else & loops in Java
-- [x] Day 3: Conditionals and Loops Questions in Java 
+- [x]  Day 1: Introduction to Java & Basic Syntax
+- [x]  Day 2: Introduction to if-else & loops in Java
+- [x]  Day 3: Conditionals and Loops Questions in Java 
 
 ## 🎯 Goals
 
-1️⃣ **Consistency:** Commit code every day without fail. 🗓️  
-2️⃣ **Understanding:** Focus on understanding the underlying principles of each topic. 🧠  
-3️⃣ **Growth:** Measure progress and aim for continuous improvement. 📈
+➔  **Consistency:** Commit code every day without fail. 🗓️  
+➔  **Understanding:** Focus on understanding the underlying principles of each topic. 🧠  
+➔️  **Growth:** Measure progress and aim for continuous improvement. 📈
 
 ## 🌟 Connect with Me
 
