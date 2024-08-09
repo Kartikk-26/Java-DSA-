@@ -39,7 +39,8 @@ While this repository is primarily for personal growth, I welcome any feedback o
 - [x]  Day 2: Introduction to if-else & loops in Java.
 - [x]  Day 3: Conditionals and Loops Questions in Java.
 - [x]  Day 4: Practised Questions on Basic Programming Concepts.
-- [x]  Day 5: Switch Statements + Nested Case in Java. 
+- [x]  Day 5: Switch Statements + Nested Case in Java.
+- [x]  Day 6: Practised Questions on Switch Statements + Nested Case in Java.  
 
 ## 🎯 Goals
 
