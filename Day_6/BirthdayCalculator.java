@@ -18,7 +18,7 @@ public class BirthdayCalculator {
         int currentYear = scanner.nextInt();
         System.out.print("Month (1-12): ");
         int currentMonth = scanner.nextInt();
-        System.out.print("Day: ");
+        System.out.print("Date: ");
         int currentDay = scanner.nextInt();
         System.out.print("Hour (0-23): ");
         int currentHour = scanner.nextInt();
@@ -33,7 +33,7 @@ public class BirthdayCalculator {
         System.out.println("Enter your birthdate:");
         System.out.print("Month (1-12): ");
         int birthMonth = scanner.nextInt();
-        System.out.print("Day: ");
+        System.out.print("Date: ");
         int birthDay = scanner.nextInt();
 
         LocalDateTime birthDateThisYear = LocalDateTime.of(currentYear, birthMonth, birthDay, 0, 0, 0);
