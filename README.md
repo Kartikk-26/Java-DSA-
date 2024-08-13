@@ -50,7 +50,7 @@ Here's your README section with tick marks added:
 - **Growth**: Measure progress and aim for continuous improvement. 📈
 
 ## 🌟 Connect with Me
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kartikk-26/) for more updates.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/-kartikjain/) for more updates.
 
 ---
 
