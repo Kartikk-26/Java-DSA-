@@ -13,7 +13,7 @@ public class Factorial {
             temp++;
         }
 
-        System.out.println("Factorial of " + n +" Is : " + fact);
+        System.out.println("Factorial of " + n +" is : " + fact);
 
     
     }
