@@ -12,7 +12,9 @@ public class sumMethod {
         a = sc.nextInt();
         b = sc.nextInt();
         sum = a+b;
+        int total = a*b;
         System.out.println("Sum of the Numbers is : "+sum);
+        System.out.println("Multiply of the Numbers is : "+total);
     }
 
 }
