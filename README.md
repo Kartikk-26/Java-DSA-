@@ -41,8 +41,9 @@ Here's your README section with tick marks added:
 - [x] **Day 4** : Practiced Questions on Basic Programming Concepts.
 - [x] **Day 5** : Switch Statements + Nested Case in Java.
 - [x] **Day 6** : Practiced Questions on Switch Statements + Nested Case in Java.
-- [x] **Day 7** : Functions / Methods / Shadowing / Scopes in Java
-- [x] **Day 8** : Practiced Questions on Functions / Methods / Shadowing in Java
+- [x] **Day 7** : Functions / Methods / Shadowing / Scopes in Java.
+- [x] **Day 8** : Practiced Questions on Functions / Methods / Shadowing in Java.
+- [x] **Day 9** : Practised More Questions on Functions in Java.
 
 ---
 
