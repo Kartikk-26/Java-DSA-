@@ -44,6 +44,8 @@ Here's your README section with tick marks added:
 - [x] **Day 7** : Functions / Methods / Shadowing / Scopes in Java.
 - [x] **Day 8** : Practiced Questions on Functions / Methods / Shadowing in Java.
 - [x] **Day 9** : Practised More Questions on Functions in Java.
+- [x] **Day 10** : Arrays in Java.
+- [x] **Day 11** : Linear Search in JAVA.
 
 ---
 
