@@ -1,7 +1,7 @@
 package Day_11;
 import java.util.Scanner;
 
-public class main{
+public class linearSearch{
     //Main Function
     public static void main( String[] args){
         int [] nums = {22,10,8,17,15,18};
